@@ -1,1 +1,2 @@
 # Fitness_tracker
+This Personalized Fitness Tracker is a Python-based project designed to help you track daily activities and suggest workouts tailored to your fitness goals. It utilizes RAG (Retrieval-Augmented Generation) for dynamic insights or CSV loaders for efficient data management. You can log your activities, analyze trends, and get recommendations to stay motivated on your fitness journey. Whether you're a beginner or a pro, this tool adapts to your needs with precision and ease. 
